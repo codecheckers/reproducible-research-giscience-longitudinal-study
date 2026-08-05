@@ -49,4 +49,4 @@ summary: >
 repository: https://github.com/codecheckers/reproducible-research-giscience-longitudinal-study/tree/main
 check_time: "2026-07-17 11:50:00"
 certificate: 2026-018
-report: 
+report: https://doi.org/110.5281/zenodo.21807544
